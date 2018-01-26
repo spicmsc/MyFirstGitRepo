@@ -1,3 +1,0 @@
-Deuxième fichier.
-Ligne 1
-EOF
