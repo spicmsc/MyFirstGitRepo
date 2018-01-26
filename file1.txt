@@ -1,3 +1,4 @@
 Premier fichier.
 Ligne 1
 Ligne 2
+EOF
